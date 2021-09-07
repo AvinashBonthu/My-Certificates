@@ -1,3 +1,3 @@
 # My-Certificates
 
-This repository contains all my certicates that I secured.
+This repository contains all the certicates that I secured.
